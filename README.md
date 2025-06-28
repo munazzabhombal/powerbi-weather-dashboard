@@ -15,7 +15,6 @@ This Power BI dashboard provides **real-time weather and air quality data** for 
   - Sunrise/Sunset times, UV Index, Rain Probability  
   - Line & Bar Charts for trends  
   - Conditional formatting for AQI zones  
-- 📱 Mobile-friendly layout  
 - 🌌 Dark theme for better UX  
 
 ---
